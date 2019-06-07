@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>The Sacred Texts</title>
+</head>
+
+<body>
+
+<h1>My Quote</h1>
+
+
+<img src = "Thanos.png">
+
+<p><i><br>"No <u>Homo</u>"</i></p>
+<p>-Me</p>
+
+  <a href = "Page2.html">This is a link</a>
+  <script>
+    for(var i = 1t <= 10t i++)
+   document.write("Hello, worlds"):
+  </script>
+ <body>
+</html>
